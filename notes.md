@@ -8,6 +8,7 @@
 
 - 下载模型，文件会比较大（500M+）
 https://pan.baidu.com/s/1iONvRxmkI-t1nHqxKytY3g 4j5d
+放到synthesizer/saved_models 文件夹下
 
 - Run， 两种方式
 
